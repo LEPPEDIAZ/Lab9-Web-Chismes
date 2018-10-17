@@ -1,0 +1,171 @@
+body {
+
+    padding: 0;
+  
+    font-family: 'Courier New', Courier, monospace;
+  
+    background: black;
+  
+    color: black;
+  
+    font-size: 2rem;
+
+    
+  }
+  
+  button {
+  
+    background: purple;
+  
+    color: white;
+  
+    font-family: 'Courier New', Courier, monospace;
+
+    width: 10rem;
+    height: 3rem;
+
+    font-size: 1rem;
+    margin-top: 3rem;
+    margin-left: 1rem;
+  
+    padding: 0;
+    border: none;
+
+  
+  }
+  h1{
+  
+    background:black;
+  
+    color: purple;
+  
+    border-radius:4px;
+    text-align: center;
+
+    border: 2px solid purple;
+    border-radius: 5px;
+
+   
+  
+  }
+  li{
+  
+    
+  
+    color: white;
+  
+    border-radius:4px;
+
+    width: 50rem;
+
+    border-bottom: 6px solid purple;
+
+   
+    
+    
+  
+  }
+  
+  h2{
+  
+    background:black;
+  
+    color: lightgrey;
+  
+    border-radius:6px;
+
+    width: 40rem;
+
+    border: 2px solid whitesmoke;
+   
+    
+  
+  }
+  
+  h4{
+  
+    color: whitesmoke;
+  
+    border-radius:4px;
+  
+  }
+  
+  h5{
+  
+    background:black;
+  
+    color: purple;
+  
+    border-radius:4px;
+    text-align: left;
+    border: 2px solid purple;
+    width: 40rem;
+    font-size: 3rem;
+    
+  
+  }
+  h6{
+  
+    background:black;
+    color: white;
+    border-radius:4px;
+    text-align: left;
+    border: 2px solid purple;
+    width: 40rem;
+    font-size: 2rem;
+    margin-left: 15rem;
+  
+  }
+  
+  input{
+  
+    width:40rem;
+  
+    height: 3rem;
+
+    background: whitesmoke;
+  
+  }
+  
+  h3{
+  
+    color: darkgrey;
+  
+    border-radius:4px;
+  
+  }
+  
+  
+  
+  .light {
+  
+    border: 1px solid black;
+  
+    border-radius: 50%;
+  
+    height: 300px;
+  
+    transition: 0.25s;
+  
+    width: 300px;
+  
+  }
+  
+  
+  
+  .light.on {
+  
+    background: yellow;
+  
+    transform: scale(1.1);
+  
+  }
+  
+  
+  
+  .light.off {
+  
+    background: #333;
+  
+  }
+  
